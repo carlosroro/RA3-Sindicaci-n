@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Noticias recientes sobre las TIC</title>
+        <link>http://localhost/ra3/lmsgi/ra3-2.rss</link>
+        <description>Artículos publicados por todo internet
+        sobre los avances más recientes en las TIC.</description>
+        <category>TIC Informática Internet Hardware Software</category>
+        <copyright>1º DAW - B</copyright>
+        <image>
+            <url>https://urko.net/wp-content/uploads/2018/10/Cartel-TIC.jpg</url>
+            <title>Noticias recientes en las TIC</title>
+        <link>http://localhost/ra3/lmsgi/ra3-2.rss</link>
+        </image>
+        <language>es-es</language>
+        <lastBuildDate>Tue, 23 Jan 2024 17:35:00 GMT</lastBuildDate>
+        <webMaster>admin@iesgrancapitan.org</webMaster>
+        <ttl>1440</ttl>
+
+        <item>
+            <title>Discos SSD con interfaz NMVe</title>
+            <link>https://www.elespanol.com/omicrono/tecnologia/20181028/ssd-nvme-instalan-deberias-comprarte/348965861_0.html</link>
+            <description>Los discos con interfaz NMVe es la opción
+            preferida para los nuevos ordenadores portátiles. En este
+            artículo se describen las ventajas de este tipo de discos,
+            en lugar de los tradicionales con interfaz SATA.</description>
+            <author>admin@iesgrancapitan.org</author>
+            <category>Hardware SSD NMVe M2</category>
+            <enclosure url="https://drive.google.com/file/d/1WsgyeJBj7HTdbzoOXsSmnVrybx_p5EhP/view?usp=sharing"
+                type="video/webm" length="32572719"/>
+            <pubDate>Tue, 23 Jan 2024 17:55:00 +0100</pubDate>
+            <guid isPermaLink="false">http://www.iesgrancapitan.org/rss/tic/n1/</guid>
+        </item>
+
+        <item>
+            <title>Raspberry Pi 4</title>
+            <description>Nueva versión de la conocida miniplaca Raspberry con
+            capacidades de cómputo ampliadas.</description>
+            <link>https://www.pccomponentes.com/raspberry-pi-4-modelo-b-4gb</link>
+            <author>admin@iesgrancapitan.org</author>
+            <category>Hardware SSD NMVe M2</category>
+            <enclosure url="https://drive.google.com/file/d/1Vf_AP5GGDQJKHCOSfhMfaA9Qqx8yYogN/view?usp=sharing"
+                type="video/webm" length="16347298"/>
+            <pubDate>Tue, 23 Jan 2024 18:40:00 +0100</pubDate>
+            <guid isPermaLink="false">hhtp://www.iesgrancapitan.org/rss/tic/n2/</guid>
+        </item>
+    </channel>
+</rss>

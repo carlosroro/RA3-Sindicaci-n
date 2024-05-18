@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Feed de noticias tecnológicas</title>
+        <link>https://iesgrancapitan.org</link>
+        <description>Feed de noticias relacionadas con las
+        nuevas tecnologías de la información y la
+        comunicación</description>
+
+        <item>
+            <title>La Sysmana en el IES Gran Capitán</title>
+            <link>https://sysmana.iesgrancapitan.org/</link>
+            <description>Nueva edición de la Sysmana 2024 qu se
+            celebrará entre el martes 30 de enero y el
+            viernees 2 de febrero de 2024 con la asistencia
+            del alumnado de la familia profesional de informática</description>
+        </item>
+
+        <item>
+            <title>El metaverso</title>
+            <link>https://es.wikipedia.org/wiki/Metaverso</link>
+            <description>La última chorrada de Facebook y del idiota de
+            Mark Zuckerberg que todavía no ha superado que lo dejó la novia</description>
+        </item>
+
+        <item>
+            <title>ChatGPT</title>
+            <link>https://chat.openai.com/</link>
+            <description>Nueva versión de ChatGPT con mejoras en
+            todos los aspectos. El uso es todavía gratuito,
+            pero no se sabe hasta cuando</description>
+        </item>
+    </channel>
+</rss>
